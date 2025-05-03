@@ -1,5 +1,4 @@
 body {
-    color: white;
     background-color: black;
 }
 /* .libre-baskerville-regular {
@@ -9,8 +8,12 @@ body {
   } */
 .container {
     width: 50%;
-    margin: 25%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
     text-align: center;
+    font-family: "Libre Baskerville", serif;
+
 }
 
 img {
