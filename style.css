@@ -25,3 +25,10 @@ img {
 h1 {
     text-transform: uppercase;
 }
+
+footer {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+}
