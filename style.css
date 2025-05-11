@@ -33,3 +33,8 @@ footer {
     text-align: center;
     font-family: "Libre Baskerville", serif;
 }
+
+span {
+    color: yellow;
+    font-size: 25px;
+}
